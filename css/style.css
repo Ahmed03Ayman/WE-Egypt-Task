@@ -625,7 +625,7 @@ main {
     left: 0;
     width: 100%;
     height: 75%;
-    background-image: url(../images/We+Air+-+Home+banner+1700+X+651+En\(1\).png);
+    background-image: url(../Images/weAir.png);
     background-size: cover;
     transform: translateY(-100%);
     z-index: 1;
