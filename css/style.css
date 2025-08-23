@@ -418,11 +418,19 @@ main {
     border-bottom: 3px solid #4B0082;
 }
 .section2-content {
-    width: 86%;
+    width: 92%;
     margin: auto;
     display: flex;
-    justify-content: space-between;
+    justify-content:space-between;
     flex-wrap: wrap;
+}
+.card-left-arrow,.card-right-arrow{
+    margin-top: 250px;
+}
+.card-left-arrow:hover,.card-right-arrow:hover{
+    color: #8c1a6a;
+    transform: scale(1.5);
+    transition: 0.5s;
 }
 .card {
     width: 315px;
